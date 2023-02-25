@@ -4,6 +4,13 @@ It's compatible with Linux, macOS and Docker.
 
 For more information, see my blog post: http://zablo.net/blog/post/stroke-width-transform-swt-python-3.9
 
+## Libs for Red Hat
+
+```
+sudo dnf install -y cmake blas-devel atlas-devel libpng-devel libjpeg-devel
+
+```
+
 ## Usage
 
 ```python
